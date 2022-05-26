@@ -1,5 +1,5 @@
 # projects
 Testing
 
-[your link here](file:///Users/aryankotwani/index.html)
+[your link here](Users/aryankotwani/index.html)
 
